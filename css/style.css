@@ -5,6 +5,9 @@
     font-family: 'Baloo Bhaina 2', cursive;
     
 }
+::-webkit-scrollbar {
+  display: none;
+}
 
 /* navbar section */
 .navbar{

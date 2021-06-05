@@ -267,22 +267,22 @@ main section::-webkit-scrollbar{
     height: 392px;
 } */
 .agent{
-    width: 394px;
-    height: 394px;
+       width: 309px;
+    height: 333px;
     margin: 10px;
     /* transform:translate(-50%, -50%); */
     
 }
 .agent img{
-    width: 394px;
-    height: 394px;
-    display:block;
+       width: 309px;
+    height: 333px;
+    display: block;
     
 }
 
 .agent-overlay{
     position: relative;
-    top: -395px;
+    top: -333px;
     left: 0;
     bottom: 0;
     width: 100%;

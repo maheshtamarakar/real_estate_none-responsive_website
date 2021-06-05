@@ -1,0 +1,15 @@
+@media screen and (max-width:1200px){
+    .agent{
+        width: 300px;
+        height: 324px;
+        margin: 10px;
+        /* transform:translate(-50%, -50%); */
+        
+    }
+    .agent img{
+        width: 300px;
+        height: 324px;
+        display:block;
+        
+    }
+}

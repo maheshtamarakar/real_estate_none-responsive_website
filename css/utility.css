@@ -1,0 +1,70 @@
+/* .font{
+    font-family: 'Times New Roman', Times, serif;
+} */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2:wght@500&display=swap');
+
+/* variables section */
+:root{
+    --font-s:22px;
+}
+
+/* end variable section */
+.success{
+    color: green;
+}
+.btn{
+    border: 2px solid #057919;
+    border-radius: 40px;
+    padding: 2px 32px;
+    padding-top: 9px;
+    margin: 0 6px;
+    font-family: 'Baloo Bhaina 2', cursive;
+    cursor: pointer;
+    background-color: transparent;
+    color: white;
+    margin-top: 53px;
+    font-size: 23px;
+}
+
+.container{
+    width: 80vw;
+    margin: auto;
+    /* background-color: red; */
+    /* height: 100px; */
+}
+.oneandhalf{
+    line-height: 1.3em;
+    font-weight: lighter;
+}
+.mx-2{
+    margin: 0 33px;
+}
+.my-2{
+    margin-top: 63px;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.line-h{
+    line-height: 28px;
+}
+.font-m{
+    font-size: 22px;
+}
+.btn1{
+    font-size: 23px;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 0;
+    transition: 0.5s;
+    margin: 11px;
+}
+.btn1:hover{
+    background-color: green;
+    color: black;
+}
